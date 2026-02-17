@@ -106,13 +106,19 @@ results.json
 
 ```bash
 git clone https://github.com/MaksimCD/guess-number-cli.git
-cd guess-number-cli
+cd guess-number-cli 
+```
 
-2️⃣ Установить зависимости
+### 2️⃣ Установить зависимости
+
+```bash
 go mod tidy
+```
 
-3️⃣ Запустить игру
+### 3️⃣ Запустить игру
+
+```bash
 go run main.go
-
+```
 
 
